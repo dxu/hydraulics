@@ -1,0 +1,4 @@
+[submodule "mustached-happiness"]
+	path = mustached-happiness
+	url = git@github.com:dxu/mustached-happiness.git
+	branch = master
